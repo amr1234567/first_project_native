@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(15, 15, 15);
+    color:rgb(113, 15, 15);
+    
+    
+}
+
+.sign{
+    width: 450px;
+    height: 450px;
+    margin-left: 500px;
+    margin-top: 200px;
+    border: 2px solid gray;
+    padding: 25px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    
+}
+
+.butt{
+   margin-left: 150px;
+}
